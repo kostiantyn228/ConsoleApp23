@@ -6,7 +6,7 @@
         {
             int x = 14;
             int y = 15;
-            int result =  + y;
+            int result = x + y;
             Console.WriteLine(result);
             Console.ReadKey();
         }
